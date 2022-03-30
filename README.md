@@ -22,24 +22,6 @@ Black-Tool v5.0.0
 </center>
 <center>
 
-### This Program write by [Black-Software](https://github.com/black-software-Com)
-<br>
-
-Link | Version | Suport 
-:----:|:-------:|:------:
-[Black-Tool](https://github.com/black-software-Com/black-tool) | v5.0.0 | (Linux,Windows,MacOS)
-[Black-Tool](https://github.com/mrprogrammer2938/black-tool) | v4.0.0 | (Linux,Window,MacOS)
-[Black-Tool](https://github.com/Black-Tool/Black-Tool) | v2.6.5 | (Linux,MacOS)
-<br>
-</center>
-
-## Scr
-<br>
-
-[![Black-Tool-Screen](https://user-images.githubusercontent.com/78996423/132674185-03d48566-aefe-4039-ae91-a4bfa3374ad6.jpeg)](https://github.com/mrprogrammer2938/Black-Tool)
-
-<br>
-
 ## Black-Tool Tools
 <br>
 
