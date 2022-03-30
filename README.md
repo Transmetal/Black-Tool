@@ -1,18 +1,6 @@
-<center>
-
-# [Black-Tool](https://github.com/black-software-com)
-</center>
-
-<br>
 <!--
 Black-Tool v5.0.0
 -->
-<link rel='icon' href='https://github.com/black-software-com/Black-Tool/blob/master/Scr/Black_Tool_Logo.png'>
-<center>
-<a href="https://black-software-com.github.io/Black-Tool" target="_blank">
-  <img src="https://github.com/black-software-com/Black-Tool/blob/master/Scr/Black_Tool_Logo.png" width="350" alt="Black-Tool logo">
-  </a>
-</center><br>
 
 
 ```Black-Tool v5.0.0 (New)```
