@@ -96,7 +96,7 @@ Black-Tool v5.0.0
 **Installing**
 
 <pre title="Installing">
-git clone https://github.com/black-software-Com/black-tool
+git clone https://github.com/Transmetal/Black-Tool
 
 cd Black-Tool
 
