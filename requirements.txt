@@ -1,5 +1,5 @@
 pyttsx3
-requests==2.26.0
+requests==2.32.2
 colorama==0.0.4
 cryptography
 pybluez
@@ -13,3 +13,5 @@ ttkbootstrap
 PIL
 PyQt5
 pyqt5-tools
+pillow>=10.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
